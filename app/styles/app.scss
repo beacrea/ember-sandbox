@@ -1,0 +1,30 @@
+// Imports
+@import "normalize";
+
+
+// Defaults
+body {
+  background-color: pink;
+  font-family: sans-serif;
+  font-size: 16px;
+}
+
+
+// Navigation
+nav {
+  background-color: rgba(0,0,0,0.75);
+  padding: 1rem;
+  color: white;
+  border-radius: 0.5rem;
+  a {
+    color: white;
+    text-decoration: none;
+    margin: 0 0.5rem;
+  }
+}
+
+
+// Containers
+.content-main {
+  //padding: 1rem;
+}
